@@ -1,2 +1,0 @@
-# commad
-anroid command
